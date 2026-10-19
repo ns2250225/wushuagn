@@ -1,0 +1,21 @@
+{
+  "name": "block-dynasty-warriors",
+  "private": true,
+  "version": "1.0.0",
+  "description": "方块三国无双 —— 我的世界风格 3D 网页动作游戏",
+  "type": "module",
+  "scripts": {
+    "dev": "vite --host",
+    "build": "tsc --noEmit && vite build",
+    "preview": "vite preview --host",
+    "check-assets": "node scripts/check-assets.mjs"
+  },
+  "dependencies": {
+    "three": "0.170.0"
+  },
+  "devDependencies": {
+    "@types/three": "0.170.0",
+    "typescript": "5.6.3",
+    "vite": "6.0.7"
+  }
+}

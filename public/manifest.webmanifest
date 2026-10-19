@@ -1,0 +1,10 @@
+{
+  "name": "方块三国无双",
+  "short_name": "方块无双",
+  "start_url": "./",
+  "display": "fullscreen",
+  "orientation": "landscape",
+  "background_color": "#1a1210",
+  "theme_color": "#1a1210",
+  "icons": [{ "src": "icon.svg", "sizes": "any", "type": "image/svg+xml" }]
+}
